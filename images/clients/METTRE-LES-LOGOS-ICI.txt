@@ -1,0 +1,3 @@
+Mets les logos de tes clients dans ce dossier (PNG ou SVG, idéalement fond transparent).
+Ensuite, dans index.html, écris le chemin dans "logo", par exemple :
+  "logo": "images/clients/dupont.png"
