@@ -1,0 +1,9 @@
+wrangler.jsonc
+.assetsignore
+.gitignore
+.git
+LISEZMOI.md
+.wrangler
+node_modules
+**/.DS_Store
+**/METTRE-LES-LOGOS-ICI.txt

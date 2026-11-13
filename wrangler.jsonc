@@ -1,0 +1,6 @@
+{
+  "$schema": "https://unpkg.com/wrangler/config-schema.json",
+  "name": "luxcom",
+  "compatibility_date": "2026-11-13",
+  "assets": { "directory": "." }
+}
